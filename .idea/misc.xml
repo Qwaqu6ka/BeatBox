@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Rome4/.gradle/caches/transforms-3/fc1f82018352b0cb2503b51beb61b53f/transformed/appcompat-1.5.1/res/drawable/abc_seekbar_thumb_material.xml" value="0.16" />
+        <entry key="..\:/Users/Rome4/.gradle/caches/transforms-3/fc1f82018352b0cb2503b51beb61b53f/transformed/appcompat-1.5.1/res/drawable/abc_seekbar_track_material.xml" value="0.16" />
+        <entry key="..\:/Users/Rome4/AndroidStudioProjects/BeatBox/app/src/main/res/drawable/button_beatbox.xml" value="0.16" />
+        <entry key="..\:/Users/Rome4/AndroidStudioProjects/BeatBox/app/src/main/res/drawable/button_beatbox_normal.xml" value="0.16" />
+        <entry key="..\:/Users/Rome4/AndroidStudioProjects/BeatBox/app/src/main/res/drawable/button_beatbox_pressed.xml" value="0.16" />
         <entry key="..\:/Users/Rome4/AndroidStudioProjects/BeatBox/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Rome4/AndroidStudioProjects/BeatBox/app/src/main/res/layout/list_item_sound.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Rome4/AppData/Local/Android/Sdk/platforms/android-32/data/res/drawable/ratingbar_indicator_material.xml" value="0.16" />
       </map>
     </option>
   </component>
